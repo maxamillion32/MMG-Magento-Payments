@@ -3,7 +3,7 @@
    <sections>
         <payment>
             <groups>
-                <pay translate="label" module="mmgpay">
+                <pay translate="label" module="pay">
                     <label>MMG Payment Module</label>
                     <sort_order>670</sort_order>
                     <show_in_default>1</show_in_default>
